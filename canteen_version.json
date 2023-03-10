@@ -1,14 +1,17 @@
 {
     "canteen": {
         "version": "1.3.3",
-        "version_number": 133 
+        "version_number": 133,
+        "force_update": true
     },
     "bmtra": {
         "version": "1.3.3",
-        "version_number": 133 
+        "version_number": 133,
+        "force_update": true
     },
     "octo": {
         "version": "1.3.3",
-        "version_number": 133 
+        "version_number": 133,
+        "force_update": true
     }
 }
